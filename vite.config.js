@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/Camera-project/',
+  base: '/camera-project/',
   resolve: {
     alias: {
       '@': '/src'
