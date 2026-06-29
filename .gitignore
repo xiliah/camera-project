@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.deep-copilot/
+.edge-profile/
+vite-dev.err
+vite-dev.out
